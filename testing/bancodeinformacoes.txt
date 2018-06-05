@@ -1,0 +1,70 @@
+Times: Atlético Paranense x Flamengo | Data: 01/20/2018 | Placar (3) x (0) | Publico Pagante: 36210 | Cidade: Santa Maria |*
+Times: Atlético Paranense x São Paulo | Data: 07/12/2018 | Placar (4) x (3) | Publico Pagante: 05913 | Cidade: Santos |*
+Times: Criciuma x Juventos | Data: 05/05/2018 | Placar (0) x (3) | Publico Pagante: 50505 | Cidade: Joinville |*
+Times: Grêmio x Fluminense | Data: 08/10/2018 | Placar (4) x (2) | Publico Pagante: 16273 | Cidade: Belo Horizonte |*
+Times: Vitória x Juventos | Data: 09/05/2018 | Placar (4) x (0) | Publico Pagante: 29670 | Cidade: Maringa |*
+Times: Real Madrid x JEC | Data: 09/13/2018 | Placar (3) x (4) | Publico Pagante: 42235 | Cidade: Vitória |*
+Times: Juventos x Bayern | Data: 02/10/2018 | Placar (4) x (3) | Publico Pagante: 18200 | Cidade: Manaus |*
+Times: Criciuma x São Paulo | Data: 04/18/2018 | Placar (3) x (0) | Publico Pagante: 24673 | Cidade: Belo Horizonte |*
+Times: Fluminense x Grêmio | Data: 01/11/2018 | Placar (1) x (1) | Publico Pagante: 19170 | Cidade: Curitiba |*
+Times: Santos x Santos | Data: 06/02/2018 | Placar (1) x (1) | Publico Pagante: 05071 | Cidade: Joinville |*
+Times: Vitória x Juventos | Data: 02/19/2018 | Placar (1) x (4) | Publico Pagante: 29227 | Cidade: Blumenau |*
+Times: Santos x Criciuma | Data: 09/29/2018 | Placar (3) x (4) | Publico Pagante: 34736 | Cidade: Joinville |*
+Times: Real Madrid x Atlético Paranense | Data: 09/02/2018 | Placar (3) x (2) | Publico Pagante: 12581 | Cidade: Porto Alegre |*
+Times: Atlético Paranense x Criciuma | Data: 04/30/2018 | Placar (4) x (1) | Publico Pagante: 15956 | Cidade: Sao Paulo |*
+Times: Flamengo x Vitória | Data: 11/08/2018 | Placar (4) x (0) | Publico Pagante: 27548 | Cidade: Rio de Janeiro |*
+Times: JEC x Santos | Data: 04/15/2018 | Placar (4) x (4) | Publico Pagante: 08064 | Cidade: Porto Alegre |*
+Times: Internacional x Santos | Data: 06/17/2018 | Placar (0) x (2) | Publico Pagante: 38755 | Cidade: Joinville |*
+Times: Atlético Mineiro x Real Madrid | Data: 04/17/2018 | Placar (1) x (3) | Publico Pagante: 33397 | Cidade: Curitiba |*
+Times: Internacional x Juventos | Data: 01/13/2018 | Placar (1) x (1) | Publico Pagante: 32408 | Cidade: Santa Maria |*
+Times: Santos x Internacional | Data: 07/15/2018 | Placar (3) x (0) | Publico Pagante: 19316 | Cidade: Salvador |*
+Times: Santos x Flamengo | Data: 12/22/2018 | Placar (0) x (1) | Publico Pagante: 41995 | Cidade: Santos |*
+Times: Grêmio x Vitória | Data: 04/19/2018 | Placar (1) x (0) | Publico Pagante: 16680 | Cidade: Campo Grande |*
+Times: Bayern x Grêmio | Data: 01/15/2018 | Placar (3) x (2) | Publico Pagante: 21754 | Cidade: Florianopolis |*
+Times: Santos x Flamengo | Data: 04/07/2018 | Placar (4) x (3) | Publico Pagante: 19142 | Cidade: Santa Maria |*
+Times: Bayern x Fluminense | Data: 11/28/2018 | Placar (3) x (3) | Publico Pagante: 39324 | Cidade: Maringa |*
+Times: Real Madrid x JEC | Data: 08/25/2018 | Placar (1) x (3) | Publico Pagante: 09847 | Cidade: Vitória |*
+Times: Bayern x Santos | Data: 02/11/2018 | Placar (0) x (2) | Publico Pagante: 29710 | Cidade: Porto Alegre |*
+Times: Santos x Vitória | Data: 06/22/2018 | Placar (4) x (1) | Publico Pagante: 49607 | Cidade: Maringa |*
+Times: Santos x Fluminense | Data: 12/09/2018 | Placar (1) x (1) | Publico Pagante: 44749 | Cidade: Santos |*
+Times: Grêmio x Juventos | Data: 07/22/2018 | Placar (0) x (0) | Publico Pagante: 11670 | Cidade: Salvador |*
+Times: Bayern x JEC | Data: 02/16/2018 | Placar (2) x (2) | Publico Pagante: 50404 | Cidade: Manaus |*
+Times: JEC x Fluminense | Data: 08/21/2018 | Placar (1) x (2) | Publico Pagante: 45151 | Cidade: Florianopolis |*
+Times: Fluminense x Internacional | Data: 11/23/2018 | Placar (0) x (0) | Publico Pagante: 18562 | Cidade: Belo Horizonte |*
+Times: Internacional x São Paulo | Data: 04/03/2018 | Placar (1) x (4) | Publico Pagante: 25278 | Cidade: Salvador |*
+Times: Atlético Mineiro x Santos | Data: 08/10/2018 | Placar (4) x (3) | Publico Pagante: 16203 | Cidade: Santos |*
+Times: Bayern x Flamengo | Data: 10/04/2018 | Placar (3) x (3) | Publico Pagante: 48746 | Cidade: Santos |*
+Times: Criciuma x Flamengo | Data: 09/26/2018 | Placar (2) x (4) | Publico Pagante: 10528 | Cidade: Porto Alegre |*
+Times: Santos x Criciuma | Data: 06/11/2018 | Placar (2) x (3) | Publico Pagante: 07892 | Cidade: Rio de Janeiro |*
+Times: Flamengo x Grêmio | Data: 04/20/2018 | Placar (2) x (2) | Publico Pagante: 48370 | Cidade: Campo Grande |*
+Times: Bayern x Grêmio | Data: 05/02/2018 | Placar (1) x (3) | Publico Pagante: 32676 | Cidade: Manaus |*
+Times: Flamengo x Juventos | Data: 11/11/2018 | Placar (3) x (1) | Publico Pagante: 47117 | Cidade: Porto Alegre |*
+Times: Grêmio x Juventos | Data: 01/07/2018 | Placar (4) x (0) | Publico Pagante: 37113 | Cidade: Rio de Janeiro |*
+Times: Juventos x JEC | Data: 11/31/2018 | Placar (2) x (0) | Publico Pagante: 39999 | Cidade: Florianopolis |*
+Times: Flamengo x Santos | Data: 03/18/2018 | Placar (1) x (4) | Publico Pagante: 37330 | Cidade: Santa Maria |*
+Times: Atlético Mineiro x Vitória | Data: 05/28/2018 | Placar (1) x (4) | Publico Pagante: 49227 | Cidade: Maringa |*
+Times: Grêmio x São Paulo | Data: 09/18/2018 | Placar (0) x (2) | Publico Pagante: 14721 | Cidade: Santa Maria |*
+Times: Internacional x São Paulo | Data: 08/05/2018 | Placar (0) x (0) | Publico Pagante: 06658 | Cidade: Porto Alegre |*
+Times: São Paulo x Criciuma | Data: 11/14/2018 | Placar (1) x (3) | Publico Pagante: 21089 | Cidade: Florianopolis |*
+Times: Flamengo x Santos | Data: 10/28/2018 | Placar (0) x (0) | Publico Pagante: 42564 | Cidade: Campo Grande |*
+Times: Atlético Mineiro x Internacional | Data: 06/01/2018 | Placar (3) x (0) | Publico Pagante: 12817 | Cidade: Blumenau |*
+Times: São Paulo x Grêmio | Data: 04/10/2018 | Placar (0) x (2) | Publico Pagante: 23494 | Cidade: Curitiba |*
+Times: Santos x JEC | Data: 07/18/2018 | Placar (1) x (3) | Publico Pagante: 38543 | Cidade: Campo Grande |*
+Times: Fluminense x Santos | Data: 01/12/2018 | Placar (1) x (0) | Publico Pagante: 41668 | Cidade: Maringa |*
+Times: Grêmio x São Paulo | Data: 12/29/2018 | Placar (0) x (0) | Publico Pagante: 50701 | Cidade: Campo Grande |*
+Times: Santos x Juventos | Data: 04/29/2018 | Placar (4) x (4) | Publico Pagante: 10350 | Cidade: Rio de Janeiro |*
+Times: Criciuma x Atlético Mineiro | Data: 01/04/2018 | Placar (3) x (4) | Publico Pagante: 52730 | Cidade: Salvador |*
+Times: Fluminense x Vitória | Data: 09/14/2018 | Placar (2) x (2) | Publico Pagante: 45493 | Cidade: Belo Horizonte |*
+Times: Fluminense x Santos | Data: 10/01/2018 | Placar (4) x (2) | Publico Pagante: 43224 | Cidade: Vitória |*
+Times: Juventos x Criciuma | Data: 03/15/2018 | Placar (2) x (0) | Publico Pagante: 40338 | Cidade: Maringa |*
+Times: Real Madrid x Internacional | Data: 04/21/2018 | Placar (3) x (1) | Publico Pagante: 35809 | Cidade: Florianopolis |*
+Times: São Paulo x Santos | Data: 04/15/2018 | Placar (2) x (0) | Publico Pagante: 17440 | Cidade: Florianopolis |*
+Times: Fluminense x Santos | Data: 04/04/2018 | Placar (4) x (2) | Publico Pagante: 21663 | Cidade: Maringa |*
+Times: Vitória x Santos | Data: 11/18/2018 | Placar (0) x (2) | Publico Pagante: 50667 | Cidade: Florianopolis |*
+Times: JEC x Fluminense | Data: 07/29/2018 | Placar (4) x (4) | Publico Pagante: 45013 | Cidade: Campo Grande |*
+Times: Grêmio x Flamengo | Data: 02/12/2018 | Placar (4) x (4) | Publico Pagante: 41634 | Cidade: Curitiba |*
+Times: Atlético Paranense x Criciuma | Data: 04/09/2018 | Placar (4) x (3) | Publico Pagante: 31078 | Cidade: Vitória |*
+Times: Flamengo x Real Madrid | Data: 10/24/2018 | Placar (4) x (0) | Publico Pagante: 09437 | Cidade: Porto Alegre |*
+Times: Flamengo x Fluminense | Data: 06/26/2018 | Placar (2) x (2) | Publico Pagante: 50385 | Cidade: Florianopolis |*
+Times: JEC x Vitória | Data: 08/03/2018 | Placar (4) x (0) | Publico Pagante: 30117 | Cidade: Campo Grande |*
+Times: Vitória x Grêmio | Data: 02/17/2018 | Placar (3) x (0) | Publico Pagante: 35770 | Cidade: Santa Maria |*
